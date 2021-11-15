@@ -1,0 +1,11 @@
+Modulo “Modelos prescriptivos”
+Artefacto elegido: TDR Juegos Digitales
+• ¿Por qué se eligió el artefacto?
+•	Elegí este artefacto ya que en esta fase lo vi más completo, con más sentido. Ya que fue un complemento o una mejora de la entrega anterior del mismo, en este se puso en practica algunos modelos y diagramas de los cuales me surgieron muchas dudas mientras los hacía. 
+• Si tuviera que volver a producir el artefacto, ¿qué cambiaría? ¿Qué mejoraría? 
+•	Buscaría la forma de hacer los diagramas más entendibles y en menos tiempo. 
+• Red semántica de conceptos de ingeniería de software asociadas al artefacto. 
+•	Modelos básicos de desarrollo 
+•	Modelos prescriptivos 
+• ¿Cómo contribuyó la ingeniería de software a mi misión de convertirme en ingeniero en informática y sistemas?
+•	Me parece importante saber como se hacen y leen los diagramas para poder comprender los tipos de modelos. 

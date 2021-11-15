@@ -1,0 +1,14 @@
+Modulo “Modelos ágiles”
+Artefacto elegido: Actividad de comprobación de aprendizaje bloque 2
+• ¿Por qué se eligió el artefacto?
+•	Se eligió porque expuso casos reales de los cuales había que dar solución. Es importante que logremos analizar las diferentes situaciones y que busquemos la manera de solucionar o mejorar las cosas. Ya que como ingenieros nadie nos va a decir como hacerlo. 
+• Si tuviera que volver a producir el artefacto, ¿qué cambiaría? ¿Qué mejoraría? 
+•	Repasaría más el backlog antes de la actividad. 
+• Red semántica de conceptos de ingeniería de software asociadas al artefacto. 
+•	Modelos agiles
+•	Modelos prescriptivos
+•	Modelos básicos de desarrollo
+•	Actividades sombrilla
+•	Actividades estructurales
+• ¿Cómo contribuyó la ingeniería de software a mi misión de convertirme en ingeniero en informática y sistemas?
+•	Contribuyó al tratar de resolver los diferentes problemas, que muy probablemente vamos a encontrar en la vida profesional. 

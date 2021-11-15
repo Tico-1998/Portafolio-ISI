@@ -1,0 +1,12 @@
+Modulo “Estrategias de pruebas y técnicas de pruebas”
+Artefacto elegido: Laboratorio
+• ¿Por qué se eligió el artefacto?
+•	Porque demostró lo difícil que es hacer pruebas en el momento sobre algo, con esta actividad me di cuenta de que es necesario llevar las pruebas listas y saber que es lo que se va a probar. 
+• Si tuviera que volver a producir el artefacto, ¿qué cambiaría? ¿Qué mejoraría? 
+•	Buscaría entender mejor las pruebas y mejor en cuanto al tiempo 
+• Red semántica de conceptos de ingeniería de software asociadas al artefacto. 
+•	Pruebas de calidad
+•	Medición de errores 
+•	Medición de esfuerzo 
+• ¿Cómo contribuyó la ingeniería de software a mi misión de convertirme en ingeniero en informática y sistemas?
+•	Contribuyó al entender como se miden los errores y el esfuerzo, ya que en la práctica lo comprendí mejor. 

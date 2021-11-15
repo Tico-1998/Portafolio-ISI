@@ -1,0 +1,11 @@
+Modulo “Gestión del cambio”
+Artefacto elegido: Caso ACS
+• ¿Por qué se eligió el artefacto?
+•	Porque se pusieron en práctica conceptos antiguos como diagramas UML
+• Si tuviera que volver a producir el artefacto, ¿qué cambiaría? ¿Qué mejoraría? 
+•	Buscaría hacer los diagramas más rápido 
+• Red semántica de conceptos de ingeniería de software asociadas al artefacto. 
+•	Repositorios ACS
+•	Controlador de versiones 
+• ¿Cómo contribuyó la ingeniería de software a mi misión de convertirme en ingeniero en informática y sistemas?
+•	Puso en practica y ayudo a entender como funcionan los repositorios y los controladores de versiones. 

@@ -1,0 +1,11 @@
+Modulo “Métricas de productos, procesos, medidas e indicadores”
+Artefacto elegido: Aplicación de pruebas de validación
+• ¿Por qué se eligió el artefacto?
+•	Porque trabaje mucho en la realización de las pruebas, considero que fue un trabajo bien realizado y facilito los pasos sientes de la prueba
+• Si tuviera que volver a producir el artefacto, ¿qué cambiaría? ¿Qué mejoraría? 
+•	Hablaría más con los que están realizando la prueba, que hacen, como lo hacen y ver un poco más sus reacciones 
+• Red semántica de conceptos de ingeniería de software asociadas al artefacto. 
+•	Pruebas Alpha 
+• ¿Cómo contribuyó la ingeniería de software a mi misión de convertirme en ingeniero en informática y sistemas?
+•	Contribuyo al ser un caso real con personas reales, se entendió muy bien cómo se realizan estas pruebas. 
+

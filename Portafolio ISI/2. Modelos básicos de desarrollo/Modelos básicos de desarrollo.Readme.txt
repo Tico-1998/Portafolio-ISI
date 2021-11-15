@@ -1,0 +1,14 @@
+Modulo “Modelos básicos de desarrollo”
+Artefacto elegido: Caso proyecto infinito  
+• ¿Por qué se eligió el artefacto?
+•	Se eligió ya que en el se pudieron entender mejor los conceptos.
+•	También dio un caso real, el cual en caso de ser necesario enfrentarse con un caso así, ya sabemos que pasos seguir. 
+• Si tuviera que volver a producir el artefacto, ¿qué cambiaría? ¿Qué mejoraría? 
+•	Buscaría la manera de poner la información más resumida
+• Red semántica de conceptos de ingeniería de software asociadas al artefacto. 
+•	Mitos
+•	Principios del desarrollo de software
+•	Fase estructural del desarrollo de software
+•	Fases sombrilla del desarrollo de software 
+• ¿Cómo contribuyó la ingeniería de software a mi misión de convertirme en ingeniero en informática y sistemas?
+•	Importante, tomar este tipo de cosas en cuenta, ya que cuando seamos profesionales, esperamos no enfrentarnos con casos así, pero en caso tengamos que hacerlo, ya sabemos que aspectos tomar en cuenta y como buscar corregir el error. 

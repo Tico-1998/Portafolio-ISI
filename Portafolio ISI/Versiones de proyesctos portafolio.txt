@@ -1,0 +1,8 @@
+Versiones de proyectos portafolio 
+Introducción a la ingeniería de software 1.1.1: Este documento no recibió ningún cambio desde su creación.
+Modelos básicos 1.1.2: Este documento recibió un cambio de parche, para hacer una corrección menor. 
+Links de diagramas y presentación 1.2.1: Este proyecto sufrió un cambio de forma menor en el transcurso de este. 
+Retos de comprobación de aprendizajes 1.1.1: Este documento no sufrió ningún cambio desde su creación. 
+Laboratorio 2.2.1: Este proyecto sufrió un cambio completo de arquitectura, haciendo cambiar todo el enfoque de este, posteriormente sufrió un cambio menor. 
+Test case Usuarios 1.3.1: Este documento sufrió algunos cambios menores para que fuera más claro para los usuarios. 
+Gestión del cambio: (1.1.1 todos los documentos): Estos documentos no sufrieron cambios desde su creación.  
